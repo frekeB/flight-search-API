@@ -39,10 +39,10 @@ or use any Api of your choice.
     Configuration
     Before running the server, you need to set up your environment variables by creating a .env file in the project directory:
 
-    PORT =  3000 default port
-        APIURI=<https://api.example.com/flights>
-        RAPIDAPI_KEY=your-X-RapidApi-Key,
-        RAPIDAPI_HOST=your-X-RapidApi-Host.
+   *  PORT =  3000 default port
+   * APIURI=<https://api.example.com/flights>
+   * RAPIDAPI_KEY=your-X-RapidApi-Key,
+   * RAPIDAPI_HOST=your-X-RapidApi-Host.
     Replace your-rapidapi-key and your-rapidapi-host with your actual RapidAPI key and host. NB: you have to create an account with Rapid API before you can have access to the api key and every other detail.
 
     Send your request.
