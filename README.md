@@ -1,6 +1,6 @@
 # Flight search api
 
-The Flight Search API is a Node.js application built with Express that allows users to search for flight information based on specific parameters using a third-party flight search API provider(Rapid Api). It validates input parameters, fetches flight data, and returns relevant information to the user.
+The Flight Search API is a Node.js application built with Express that allows users to search for flight information based on specific parameters using a third-party flight search API provider(Flight Radar from Rapid Api). It validates input parameters, fetches flight data, and returns relevant information to the user.
 
 ## Getting Started
 
